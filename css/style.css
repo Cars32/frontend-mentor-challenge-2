@@ -19,7 +19,7 @@ body {
 }
 
 /* FIRST CONTENT */
-#firstDiv {
+#main {
   background-color: white;
   width: 340px;
   height: 500px;
@@ -29,7 +29,7 @@ body {
   align-items: center;
   flex-direction: column;
 }
-#firstDiv img {
+#main img {
   width: 320px;
   height: 300px;
   border-radius: 18px;
